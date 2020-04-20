@@ -5,4 +5,4 @@ This is supposed to be about me. Hello hoomans!
 
 Git seems.. interesting so far.
 
-Here's the [wiki](https://erisred.github.io/hello-world/)
+Here's the [wiki](https://github.com/Erisred/hello-world/wiki)
