@@ -7,3 +7,5 @@ I'm not much of a writer, but I am a thinker. Deeper thinking, ironically, is su
 - That's it for starters; I have more things to add, but it's time I saved this to see how it shakes out on the web.
 
 #### Wish me luck...
+
+Here's my [README](README.md)
