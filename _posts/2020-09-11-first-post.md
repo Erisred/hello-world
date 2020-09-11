@@ -2,7 +2,7 @@
 layout: post
 title:  "First things first"
 date:   2020-09-11 08:53:33 -0500
-categories: test initial
+categories: test
 ---
 This just might be my first post. I've been here before, though, and expect failure at some point.
 
