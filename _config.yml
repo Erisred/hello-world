@@ -29,10 +29,9 @@ github_username:  Erisred
 permalink: /:year/:month/:title/
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
-theme: jekyll-theme-midnight 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
