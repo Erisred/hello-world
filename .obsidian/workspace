@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "265c923eed51c692",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d24764c4c9feb11",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "188bea72ef3b4303",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0be7bcc32f5a6ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "478e9e3595927299",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d58a7a16083ad629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44ca53495b229b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c9aa125341ff8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e457f617d9c61f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_posts/Untitled.md",
+    "_posts/2020-09-11-first-post.md",
+    "Untitled.md"
+  ]
+}
