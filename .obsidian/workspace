@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -71,8 +76,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/Untitled.md",
+    "Untitled.md",
+    "_posts/2020-09-11-welcome-to-jekyll.md",
+    "_posts/2020-09-12-oth-horse-show.md",
     "_posts/2020-09-11-first-post.md",
-    "Untitled.md"
+    "_posts/Untitled.md"
   ]
 }
