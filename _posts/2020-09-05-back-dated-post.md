@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Work dang it!"
-date:   2020-09-13 20:10:33 -0500
+title:  "Backdated post"
+date:   2020-08-20 20:10:33 -0500
 categories: test
+show_excerpts: true
 ---
 This is one heck of a test. lets see how it goes
