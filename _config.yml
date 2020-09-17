@@ -30,7 +30,7 @@ permalink: /:year/:month/:title/
 repository: Erisred/Erisred.github.io
 show_excerpts: true
 
-# Build settings
+# Build settings minima
 theme: minima
 plugins:
   - jekyll-feed
